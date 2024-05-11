@@ -7,4 +7,4 @@ This evaluation function take a position as input and return a number that said 
 -How to run<br>
 To run this program you need to download Arena GUI .<br>
 Compile engine.cpp and from the GUI install the engine.exe.<br>
-Then you are ready to choose the engine and start a game with it.s<br>
+Then you are ready to choose the engine and start a game with it<br>
